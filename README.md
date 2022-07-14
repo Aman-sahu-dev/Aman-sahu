@@ -6,7 +6,7 @@
 
         a). Python intermediate
         b). C intermediate
-        c). C++ basic
+        c). HTML, CSS , JAVASCRIPT, PHP
         d). java intermediate
 
 👩‍💻 --> if you have anything to share. you can contact me
